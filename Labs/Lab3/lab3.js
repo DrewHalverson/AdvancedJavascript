@@ -1,3 +1,4 @@
+// This function creates a web form with a text field and a submit button
 const init = () => {
 
     let formElement = document.createElement("form");
